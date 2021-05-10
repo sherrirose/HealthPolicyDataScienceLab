@@ -5,6 +5,8 @@ Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.or
 
 I’m thrilled when trainees contact me to explore potentially working together on a scientific project. I’ll happily cater a project to the trainee’s strengths, as capabilities are wide-ranging. Your interests and learning objectives matter a great deal to me.
 
+See [current team members](http://drsherrirose.org/team).
+
 ## Conferences
 
 Want to go to a relevant conference? I’ll send you, funded.
