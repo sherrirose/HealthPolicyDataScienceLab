@@ -1,6 +1,8 @@
 
 # Stanford Group Resources
 
+Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.org/) members working with Lab Co-Director [Sherri Rose](http://drsherrirose.org/) at Stanford University.
+
 ## Conferences
 ### Fairness & ML for Health
 
