@@ -37,7 +37,7 @@ _These statistics conferences are all abstract only._
 ## Journals
 ### Health Economics & Policy
 
-[Journal of Health Economics](https://www.journals.elsevier.com/journal-of-health-economics), [American Journal of Health Economics](https://www.journals.uchicago.edu/toc/ajhe/current), [Health Affairs](https://www.healthaffairs.org/), [Health Services Research](https://www.hsr.org/), [Medical Care](https://journals.lww.com/lww-medicalcare/pages/default.aspx), [JAMA Health Forum](https://jamanetwork.com/journals/jama-health-forum)
+[Journal of Health Economics](https://www.journals.elsevier.com/journal-of-health-economics), [American Journal of Health Economics](https://www.journals.uchicago.edu/toc/ajhe/current), [Health Affairs](https://www.healthaffairs.org/), [Health Services Research](https://www.hsr.org/), [Medical Care](https://journals.lww.com/lww-medicalcare/pages/default.aspx), [Medical Decision Making](Medical Decision Making),  [JAMA Health Forum](https://jamanetwork.com/journals/jama-health-forum)
 
 ### Epidemiology & Public Health
 
