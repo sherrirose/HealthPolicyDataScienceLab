@@ -3,6 +3,7 @@
 
 ### Conferences
 _Fairness & ML for Health_
+
 #March 
 [ACM FAccT](https://facctconference.org), archival & non-archival, due October
 #May 
@@ -25,12 +26,15 @@ _Statistics (all abstract only)_
 
 ### Journals
 _Health Economics & Policy_
+
 [Journal of Health Economics](https://www.journals.elsevier.com/journal-of-health-economics), [American Journal of Health Economics](https://www.journals.uchicago.edu/toc/ajhe/current), [Health Affairs](https://www.healthaffairs.org/), [Health Services Research](https://www.hsr.org/), [Medical Care](https://journals.lww.com/lww-medicalcare/pages/default.aspx)
 
 _Epidemiology & Public Health_
+
 [American Journal of Epidemiology](https://academic.oup.com/aje), [Epidemiology](https://journals.lww.com/epidem/pages/default.aspx), [International Journal of Epidemiology](https://academic.oup.com/ije), [American Journal of Public Health](https://ajph.aphapublications.org/)
 
 _Statistics_
+
 [Journal of the American Statistical Association](https://www.tandfonline.com/toc/uasa20/current), [Biometrics](https://onlinelibrary.wiley.com/journal/15410420), [Biostatistics](https://academic.oup.com/biostatistics) (_COI: Sherri Rose is Co-Editor-in-Chief_), [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258), [Statistical Methods in Medical Research](https://journals.sagepub.com/home/smm)
 
-_These lists are not exhaustive and largely focus on outlets where Lab members have published their work._
+_Journal lists are not exhaustive and largely focus on outlets where Lab members have published their work._
