@@ -65,7 +65,7 @@ All fee-based software necessary for your research will be paid for using Lab re
 
 OmniGraffle [[Purchase Subscription or One-Time Download]](https://store.omnigroup.com/omnigraffle), Adobe Illustrator [[Free via Stanford Branner Earth Science Library]](https://library.stanford.edu/branner/using-branner-library) or [[Purchase Adobe Creative Cloud License]](https://web.stanford.edu/dept/its/cgi-bin/services/software/portal/detail.php?action=view_product&product_id=1163) 
 
-### When You Have News
+#### When You Have News
 
 The Lab has a [twitter account](https://twitter.com/HPDSLab) where we are happy to share your preprints, journal publications, grants, awards, presentations, service activities, internships, jobs, and other news! Send the Lab account a direct message with your news for a bespoke tweet or retweet. We also maintain a [twitter list](https://twitter.com/i/lists/1228428829078806531) of Lab members and alums.
 
