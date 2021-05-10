@@ -3,7 +3,12 @@
 
 Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.org/) members working with Lab Co-Director [Sherri Rose](http://drsherrirose.org/) at Stanford University.
 
+I’m thrilled when trainees contact me to explore potentially working together on a scientific project. I’ll happily cater a project to the trainee’s strengths, as capabilities are wide-ranging. Your interests and learning objectives matter a great deal to me.
+
 ## Conferences
+
+Want to go to a relevant conference? I’ll send you, funded.
+
 ### Fairness & ML for Health
 
 #March 
@@ -59,7 +64,7 @@ Journal lists are not exhaustive and largely focus on outlets where Lab members 
 
 ## Software
 
-All fee-based software necessary for your research will be paid for using Lab resources. Contact Sherri when you need software.
+Need software? I’ll buy it.
 
 ### Illustration
 
