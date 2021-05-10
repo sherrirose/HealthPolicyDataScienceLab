@@ -13,7 +13,7 @@ Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.or
 [AAI/ACM AI, Ethics, & Society](https://www.aies-conference.com/2021/), archival, due January 
 
 #August 
-[MLHC](https://www.mlforhc.org/), archival & non-archical clinical track, due March
+[Machine Learning for Health Care](https://www.mlforhc.org/), archival & non-archical clinical track, due March
 
 #September 
 [Economics of AI](https://www.economicsofai.com/blog/2021/2/2/2021-nber-economics-of-ai-conference-call-for-papers), non-archival, due May
