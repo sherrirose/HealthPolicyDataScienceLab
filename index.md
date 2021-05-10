@@ -1,6 +1,5 @@
-## [Health Policy Data Science Lab](http://healthpolicydatascience.org/) 
-## Stanford Resources
 
+## Stanford Group Resources
 
 ### Fairness & ML for Health Conferences
 
