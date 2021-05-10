@@ -59,6 +59,6 @@ _Journal lists are not exhaustive and largely focus on outlets where Lab members
 
 ## Illustration Software
 
-OmniGraffle , Adobe Illustrator [[Free via Stanford Branner Earth Science Library]](https://library.stanford.edu/branner/using-branner-library) or [[Purchase Adobe Creative Cloud License]](https://web.stanford.edu/dept/its/cgi-bin/services/software/portal/detail.php?action=view_product&product_id=1163) 
+OmniGraffle [[Purchase Subscription or One-Time Download]](https://store.omnigroup.com/omnigraffle), Adobe Illustrator [[Free via Stanford Branner Earth Science Library]](https://library.stanford.edu/branner/using-branner-library) or [[Purchase Adobe Creative Cloud License]](https://web.stanford.edu/dept/its/cgi-bin/services/software/portal/detail.php?action=view_product&product_id=1163) 
 
 _(Contact Sherri to have sofware fees covered.)_
