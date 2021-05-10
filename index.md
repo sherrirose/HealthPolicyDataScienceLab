@@ -22,8 +22,7 @@ Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.or
 [ACM EAAMO](https://eaamo.org/), archival & non-archival, due June
 
 ### Statistics
-
-_These are all abstract only._
+_These are abstract only._
 
 #January 
 [International Conference on Health Policy Statistics](https://ww2.amstat.org/meetings/ichps/2020/)
