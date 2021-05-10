@@ -45,7 +45,7 @@ _These statistics conferences are all abstract only._
 
 ### Statistics 
 
-[Journal of the American Statistical Association](https://www.tandfonline.com/toc/uasa20/current), [Biometrics](https://onlinelibrary.wiley.com/journal/15410420), [Biostatistics](https://academic.oup.com/biostatistics) (_COI: Sherri Rose is Co-Editor-in-Chief_), [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258), [Statistical Methods in Medical Research](https://journals.sagepub.com/home/smm)
+[Journal of the American Statistical Association](https://www.tandfonline.com/toc/uasa20/current), [Biometrics](https://onlinelibrary.wiley.com/journal/15410420), [Biostatistics](https://academic.oup.com/biostatistics) (_COI: Sherri is Co-Editor-in-Chief_), [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258), [Statistical Methods in Medical Research](https://journals.sagepub.com/home/smm)
 
 ### Clinical
 
@@ -56,3 +56,9 @@ _These statistics conferences are all abstract only._
 [JAMIA](https://academic.oup.com/jamia), [BMJ Health & Care Informatics](https://informatics.bmj.com/), [Lancet Digital Health](https://www.thelancet.com/journals/landig/home)
 
 _Journal lists are not exhaustive and largely focus on outlets where Lab members have published their work._
+
+## Illustration Software
+
+OmniGraffle , Adobe Illustrator [[Free via Stanford Branner Earth Science Library]](https://library.stanford.edu/branner/using-branner-library) or [[Purchase Adobe Creative Cloud License]](https://web.stanford.edu/dept/its/cgi-bin/services/software/portal/detail.php?action=view_product&product_id=1163) 
+
+_(Contact Sherri to have sofware fees covered.)_
