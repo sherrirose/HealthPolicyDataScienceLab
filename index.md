@@ -57,8 +57,10 @@ _These statistics conferences are all abstract only._
 
 _Journal lists are not exhaustive and largely focus on outlets where Lab members have published their work._
 
-## Illustration Software
+## Software
+
+All fee-based software necessary for your research will be paid for using Lab resources. Contact Sherri when you need software.
+
+### Illustration
 
 OmniGraffle [[Purchase Subscription or One-Time Download]](https://store.omnigroup.com/omnigraffle), Adobe Illustrator [[Free via Stanford Branner Earth Science Library]](https://library.stanford.edu/branner/using-branner-library) or [[Purchase Adobe Creative Cloud License]](https://web.stanford.edu/dept/its/cgi-bin/services/software/portal/detail.php?action=view_product&product_id=1163) 
-
-_(Contact Sherri to have software fees covered.)_
