@@ -23,6 +23,8 @@ Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.or
 
 ### Statistics
 
+_These are all abstract only._
+
 #January 
 [International Conference on Health Policy Statistics](https://ww2.amstat.org/meetings/ichps/2020/)
 
@@ -32,9 +34,10 @@ Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.or
 #August 
 [Joint Statistical Meetings](https://www.amstat.org/asa/meetings/Joint-Statistical-Meetings.aspx)
 
-_These statistics conferences are all abstract only._
-
 ## Journals
+
+Journal lists are not exhaustive and largely focus on outlets where Lab members have published their work.
+
 ### Health Economics & Policy
 
 [Journal of Health Economics](https://www.journals.elsevier.com/journal-of-health-economics), [American Journal of Health Economics](https://www.journals.uchicago.edu/toc/ajhe/current), [Health Affairs](https://www.healthaffairs.org/), [Health Services Research](https://www.hsr.org/), [Medical Care](https://journals.lww.com/lww-medicalcare/pages/default.aspx), [Medical Decision Making](https://journals.sagepub.com/home/mdm),  [JAMA Health Forum](https://jamanetwork.com/journals/jama-health-forum)
@@ -54,8 +57,6 @@ _These statistics conferences are all abstract only._
 ### Health Informatics & Digital Health
 
 [JAMIA](https://academic.oup.com/jamia), [BMJ Health & Care Informatics](https://informatics.bmj.com/), [Lancet Digital Health](https://www.thelancet.com/journals/landig/home)
-
-_Journal lists are not exhaustive and largely focus on outlets where Lab members have published their work._
 
 ## Software
 
