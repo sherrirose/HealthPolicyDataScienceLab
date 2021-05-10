@@ -5,7 +5,7 @@ Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.or
 
 ## Want to join the Lab?
 
-**Current Stanford Students:** I’m thrilled when trainees contact me to explore potentially working together. I’ll happily cater a project to the trainee’s strengths, as capabilities are wide-ranging. Your interests and learning objectives matter a great deal to me.
+**Current Stanford Students:** I’m thrilled when trainees contact me to explore potentially working together. I’ll happily cater a project to the trainee’s strengths; your interests and learning objectives matter a great deal to me.
 
 **Open Positions:** I'm am not currently hiring for any full-time roles [May 2021].
 
