@@ -1,5 +1,5 @@
 
-## Stanford Group Resources
+# Stanford Group Resources
 
 ### Conferences
 _Fairness & ML for Health_
