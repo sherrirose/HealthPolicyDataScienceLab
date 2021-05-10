@@ -17,3 +17,15 @@
 
 #### October
 [ACM EAAMO](https://eaamo.org/), archival & non-archival, due June
+
+### Statistics Conferences
+_These are all abstract only_
+
+#### January
+[International Conference on Health Policy Statistics](https://ww2.amstat.org/meetings/ichps/2020/)
+
+#### March
+[ENAR](https://www.enar.org/meetings/future.cfm)
+
+#### August
+[Joint Statistical Meetings](https://www.amstat.org/asa/meetings/Joint-Statistical-Meetings.aspx)
