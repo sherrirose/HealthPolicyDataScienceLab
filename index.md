@@ -1,8 +1,8 @@
 
 # Stanford Group Resources
 
-### Conferences
-_Fairness & ML for Health_
+## Conferences
+### _Fairness & ML for Health_
 
 #March 
 [ACM FAccT](https://facctconference.org), archival & non-archival, due October
