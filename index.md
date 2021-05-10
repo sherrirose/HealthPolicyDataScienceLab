@@ -3,7 +3,11 @@
 
 Resources for [Health Policy Data Science Lab](http://healthpolicydatascience.org/) members working with Lab Co-Director [Sherri Rose](http://drsherrirose.org/) at Stanford University.
 
-I’m thrilled when trainees contact me to explore potentially working together on a scientific project. I’ll happily cater a project to the trainee’s strengths, as capabilities are wide-ranging. Your interests and learning objectives matter a great deal to me.
+## Want to join the Lab?
+
+**Current Stanford Students:** I’m thrilled when trainees contact me to explore potentially working together. I’ll happily cater a project to the trainee’s strengths, as capabilities are wide-ranging. Your interests and learning objectives matter a great deal to me.
+
+**Open Positions:** I'm am not currently hiring for any full-time roles [May 2021].
 
 See [current team members](http://drsherrirose.org/team).
 
